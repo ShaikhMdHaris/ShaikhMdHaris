@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ShaikhMdHaris<br>👀 I’m interested in Full Stack web development<br>🌱 I’m currently a intermediate web development learner<br>📫 How to reach me ... @ShaikhMdHaris my Linkedln profile<br>🧑🏼‍💻I am a student of Third Year pursuing BTech
+👋 Hi, I’m Md Haris Shaikh<br>👀 I’m interested in Full Stack web development<br>🌱 I’m currently a intermediate web development learner<br>📫 How to reach me ... [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-haris-shaikh-812aa8228)<br>🧑🏼‍💻I am a student of Third Year pursuing BTech
 
 
 ## 🌐 Socials:
